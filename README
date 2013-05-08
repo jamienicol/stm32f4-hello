@@ -1,0 +1,5 @@
+Example program for STM32F4 microcontrollers.
+
+Blinks an LED on the STM32F4DISCOVERY demo board on and off repeatedly.
+
+Uses libopencm3.
